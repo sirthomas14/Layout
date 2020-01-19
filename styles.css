@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    border: 5px solid red;
+}
+main {
+    display: block;
+}
+.cabezera-principal{
+    border: 5px solid purple;
+}
+.secundario{
+    border: 4px solid blue;
+}
+.secundario aside{
+    border: 3px solid brown;
+}
+.normal{
+    border: 4px solid turquoise;
+}
+.holi{
+    border: 5px solid springgreen;
+}
